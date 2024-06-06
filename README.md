@@ -1,4 +1,29 @@
 ## Hi there 👋
+# Petra W. Leka's GitHub Portfolio
+
+Welcome to my GitHub portfolio! Below you'll find a curated list of my projects categorized by topics. Click on the links to explore the repositories.
+
+## Table of Contents
+1. [Machine Learning](#machine-learning)
+2. [IoT](#iot)
+3. [Website](#website)
+4. [Computer Science](#computer-science)
+
+## Machine Learning
+1. [Machine Learning Pengenal Audio Teriak](https://github.com/PetraWLeka/Machine-Learning-Pengenal-Audio-Teriak)
+2. [Natural Language Processing Learn](https://github.com/PetraWLeka/natural_language_processing_learn)
+3. [ProbStatistic Analisis Video YouTube](https://github.com/PetraWLeka/ProbStatistic-Analisis-video-youtube)
+
+## IoT
+1. [IoT Sistem Otomatis Perawatan Tanaman](https://github.com/PetraWLeka/IoT-Sistem-otomatis-perawatan-tanaman)
+2. [IoT Sistem Inventory Cerdas](https://github.com/PetraWLeka/IoT-Sistem_Inventory_Cerdas)
+
+## Website
+1. [Website Dashboard Smart Warteg](https://github.com/PetraWLeka/Website-Dashboard_Smart_Warteg)
+
+## Computer Science
+1. [MySQL Simulasi Database Smart Home](https://github.com/PetraWLeka/MySql-Simulasi-database-smart-home)
+2. [OOP Simulasi Smart Home dengan Tkinter](https://github.com/PetraWLeka/OOP-Simulasi-Smart-Home-dengan-Tkinter)
 
 <!--
 **PetraWLeka/PetraWLeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
