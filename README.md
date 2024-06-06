@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! Below you'll find a curated list of my projects 
 ## Machine Learning
 1. [Machine Learning Pengenal Audio Teriak](https://github.com/PetraWLeka/Machine-Learning-Pengenal-Audio-Teriak)
 2. [Natural Language Processing Learn](https://github.com/PetraWLeka/natural_language_processing_learn)
-3. [Books Recommendation System](https://github.com/PetraWLeka/books_recommender_system/blob/master/BX-Books.csv)
+3. [Books Recommendation System](https://github.com/PetraWLeka/books_recommender_system/)
 4. [ProbStatistic Analisis Video YouTube](https://github.com/PetraWLeka/ProbStatistic-Analisis-video-youtube)
 
 ## Computer Science
