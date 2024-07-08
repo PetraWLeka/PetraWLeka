@@ -10,10 +10,12 @@ Welcome to my GitHub portfolio! Below you'll find a curated list of my projects 
 4. [IoT](#iot)
 
 ## Machine Learning
-1. [Machine Learning Pengenal Audio Teriak](https://github.com/PetraWLeka/Machine-Learning-Pengenal-Audio-Teriak)
-2. [Natural Language Processing Learn](https://github.com/PetraWLeka/natural_language_processing_learn)
-3. [Books Recommendation System](https://github.com/PetraWLeka/books_recommender_system/)
-4. [ProbStatistic Analisis Video YouTube](https://github.com/PetraWLeka/ProbStatistic-Analisis-video-youtube)
+1. [Twitter cyberbully detection](https://github.com/PetraWLeka/NLP-Twitter-bully-detection)
+2. [Machine Learning Pengenal Audio Teriak](https://github.com/PetraWLeka/Machine-Learning-Pengenal-Audio-Teriak)
+3. [Natural Language Processing Learn](https://github.com/PetraWLeka/natural_language_processing_learn)
+4. [Books Recommendation System](https://github.com/PetraWLeka/books_recommender_system/)
+5. [ProbStatistic Analisis Video YouTube](https://github.com/PetraWLeka/ProbStatistic-Analisis-video-youtube)
+   
 
 ## Computer Science
 1. [MySQL Simulasi Database Smart Home](https://github.com/PetraWLeka/MySql-Simulasi-database-smart-home)
