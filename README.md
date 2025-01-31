@@ -15,6 +15,7 @@ Welcome to my GitHub portfolio! Below you'll find a curated list of my projects 
 3. [Natural Language Processing Learn](https://github.com/PetraWLeka/natural_language_processing_learn)
 4. [Books Recommendation System](https://github.com/PetraWLeka/books_recommender_system/)
 5. [ProbStatistic Analisis Video YouTube](https://github.com/PetraWLeka/ProbStatistic-Analisis-video-youtube)
+6. [Driven Data competition: Alzheimer analysis using social determinant data](https://github.com/PetraWLeka/PREPARE-Challenge--Phase-2-Model-Arena-Social-Determinants-Track)
    
 
 ## Computer Science
